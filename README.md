@@ -32,7 +32,7 @@
    </p>
 
 </p>
-<p align="center"><br>-  简体中文  | <a href="README_en.md"> English </a> -
+<!-- <p align="center"><br>-  简体中文  | <a href="README_en.md"> English </a> - -->
 
 
 ## 介绍
