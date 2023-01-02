@@ -6,7 +6,7 @@
    <p align="center">纵使疾风起，不破聖衣来！</p>
    <p align="center"> 
       <a href="mailto:poshoier@gmail.com">
-        <img alt="poshoier@gmail.com" src="https://img.shields.io/badge/poshoier@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:poshoier@gmail.com" />     
+        <img alt="poshoier@gmail.com" src="https://img.shields.io/badge/fecouc@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fecouc@gmail.com" />     
        </a>
       <a href="https://twitter.com/zhanggaojing">
           <img src=https://img.shields.io/twitter/follow/zhanggaojing?style=social> 
@@ -57,6 +57,7 @@
 </br>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!--
