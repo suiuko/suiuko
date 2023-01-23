@@ -1,4 +1,4 @@
-# 你好 我是fecouc 👋
+# 你好 我是SuiuKo 👋
 
 <p align="center">
    <img width="250px"src="./xiaoxin.jpeg" align="center" alt="fecouc图片"/>
@@ -38,7 +38,7 @@
 ## 介绍
 
 </br>
-💡 我的名字叫 <a href="https://github.com/poshoi">fecouc</a> 是一名头发尚且还算多的菜鸡程序员</br>
+💡 我是 <a href="https://github.com/poshoi">SuiuKo</a> 是一名头发尚且还算多的菜鸡程序员</br>
 🐣 目前从事的方向: 暂无 </br>
 🤭 请在GitHub上见证我的成长吧! </br>
 🤩 如果您愿意一起学习一起分享有用的知识,欢迎加入我们的大家庭 <a href="https://github.com/lidao-ltd"> @lidao-ltd </a> </br>
