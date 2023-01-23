@@ -2,7 +2,7 @@
 
 <p align="center">
    <img width="250px"src="./xiaoxin.jpeg" align="center" alt="fecouc图片"/>
-   <p align="center">couc.</p>
+   <p align="center">SuiuKo.</p>
    <p align="center">纵使疾风起，不破聖衣来！</p>
    <p align="center"> 
       <a href="mailto:fecouc@gmail.com">
