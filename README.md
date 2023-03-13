@@ -1,12 +1,12 @@
 # 你好 我是SuiuKo 👋
 
 <p align="center">
-   <img width="250px"src="./xiaoxin.jpeg" align="center" alt="fecouc图片"/>
+   <img width="250px"src="./xiaoxin.jpeg" align="center" alt="图片"/>
    <p align="center">SuiuKo.</p>
    <p align="center">纵使疾风起，不破聖衣来！</p>
    <p align="center"> 
-      <a href="mailto:fecouc@gmail.com">
-        <img alt="fecouc@gmail.com" src="https://img.shields.io/badge/fecouc@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fecouc@gmail.com" />     
+      <a href="mailto:me@suiu.cc">
+        <img alt="me@suiu.cc" src="https://img.shields.io/badge/me@suiu.cc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@suiu.cc" />     
        </a>
       <a href="https://twitter.com/zhanggaojing">
           <img src=https://img.shields.io/twitter/follow/zhanggaojing?style=social> 
@@ -17,7 +17,7 @@
 
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
       <a href="https://github.com/lidao-ltd">
-        <img alt="@张高境" src="https://img.shields.io/badge/-组织:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
+        <img alt="" src="https://img.shields.io/badge/-组织:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
        </a>
        <a href="https://github.com/poshoi">
           <img src=https://img.shields.io/github/followers/poshoi?style=social> 
