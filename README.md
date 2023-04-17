@@ -39,14 +39,16 @@
 
 </br>
 💡 我是 <a href="https://github.com/poshoi">SuiuKo</a> 是一名头发尚且还算多的菜鸡程序员</br>
-🐣 目前从事的方向: 暂无 </br>
+🐣 目前从事的方向: 人工智能&机器人自动化专业 </br>
 🤭 请在GitHub上见证我的成长吧! </br>
 🤩 如果您愿意一起学习一起分享有用的知识,欢迎加入我们的大家庭 <a href="https://github.com/lidao-ltd"> @lidao-ltd </a> </br>
 </br>
 <details>
-  <summary><b> 💡 目标</b></summary>
+  <summary><b> 💡学习方向</b></summary>
      </br>
-
+  1. AIGC
+  2. AI绘画
+  3. 机器人自动化
 </details>
 </br>
 
