@@ -37,7 +37,7 @@
 </br>
 💡 我是 <a href="https://github.com/poshoi">SuiuKo</a> 是一名头发尚且还算多的菜鸡程序员</br>
 🐣 目前从事的方向: 人工智能&机器人自动化专业 </br>
-🤭 个人播客：https://www.suiu.cc
+🤭 个人播客：https://www.suiu.cc   </br>
 🌸 个人主页：https://www.suiuko.com
 </br>
 <details>
