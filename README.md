@@ -55,6 +55,7 @@
 </br>
 </br>
 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=poshoi&theme=dracula)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
