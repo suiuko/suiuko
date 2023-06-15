@@ -55,8 +55,9 @@
 </br>
 </br>
 
-<div class="github-card" data-github="poshoi" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+
+
 
 <!--START_SECTION:waka-->
 
