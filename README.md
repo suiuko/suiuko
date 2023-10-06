@@ -14,7 +14,7 @@
        <a href="https://www.facebook.com/Poshoier/">
           <img src=https://img.shields.io/twitter/url?label=facebook&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FPoshoier%2F> 
       </a>
-
+   <a href="https://wakatime.com/@40ccc59d-b557-4a30-90e3-56de1d1e648a"><img src="https://wakatime.com/badge/user/40ccc59d-b557-4a30-90e3-56de1d1e648a.svg" alt="Total time coded since Sep 12 2021" /></a>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
        <a href="https://github.com/suiuko">
           <img src=https://img.shields.io/github/followers/suiuko?style=social> 
@@ -49,37 +49,20 @@
 </details>
 </br>
 
+<!--
 <a href="https://github.com/suiuko">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suiuko&theme=tokyonight&show_icons=true&include_all_commits=true" />
+-->
 </a>
 </br>
-</br>
 
 
-
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<!--
-<a href="https://github.com/suiuko">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suiuko&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=suiuko" />
 </a>
--->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suiuko&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<!--
-**suiuko/suiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suiuko)](https://github.com/anuraghazra/github-readme-stats)
