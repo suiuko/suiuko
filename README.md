@@ -16,8 +16,8 @@
       </a>
 
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
-       <a href="https://github.com/poshoi">
-          <img src=https://img.shields.io/github/followers/poshoi?style=social> 
+       <a href="https://github.com/suiuko">
+          <img src=https://img.shields.io/github/followers/suiuko?style=social> 
       </a>
       <a href="https://discord.gg/eFFSN2ubPN">
           <img src=https://img.shields.io/discord/718645377921712220?label=discord&logo=discord> 
@@ -35,7 +35,7 @@
 ## 介绍
 
 </br>
-💡 我是 <a href="https://github.com/poshoi">SuiuKo</a> 是一名头发尚且还算多的菜鸡程序员</br>
+💡 我是 <a href="https://github.com/suiuko">SuiuKo</a> 是一名头发尚且还算多的菜鸡程序员</br>
 🐣 目前从事的方向: 人工智能&机器人自动化专业 </br>
 🤭 个人播客：https://www.suiu.cc   </br>
 🌸 个人主页：https://www.suiuko.com
@@ -49,8 +49,8 @@
 </details>
 </br>
 
-<a href="https://github.com/poshoi">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/suiuko">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suiuko&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
 </br>
 </br>
@@ -64,13 +64,13 @@
 <!--END_SECTION:waka-->
 
 <!--
-<a href="https://github.com/poshoi">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshoi&layout=compact" />
+<a href="https://github.com/suiuko">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suiuko&layout=compact" />
 </a>
 -->
 
 <!--
-**poshoi/poshoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**suiuko/suiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
